@@ -4,7 +4,12 @@
 
 .products-container {
     width: 70%;
-    margin-left: 20px;
+    margin-left: 100px;
     margin-right: 5px;
     border-right: 1px solid lightgray;
+}
+
+.cart-container {
+    text-align: center;
+    margin-left: 50px;
 }
